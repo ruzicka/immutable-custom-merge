@@ -1,3 +1,7 @@
+[![npm version](https://badge.fury.io/js/immutable-custom-merge.svg)](https://badge.fury.io/js/immutable-custom-merge)
+[![Build Status](https://travis-ci.org/ruzicka/immutable-custom-merge.svg?branch=master)](https://travis-ci.org/ruzicka/immutable-custom-merge)
+[![Coverage Status](https://coveralls.io/repos/github/ruzicka/immutable-custom-merge/badge.svg?branch=master)](https://coveralls.io/github/ruzicka/immutable-custom-merge?branch=master)
+
 # immutable-custom-merge
 
 Allows deep merging of Immutable objects with custom merging strategy fine-tuned
