@@ -91,4 +91,4 @@ function mergeDeep(param1, param2, schema) {
   return merged
 }
 
-export default mergeDeep
+module.exports = mergeDeep
