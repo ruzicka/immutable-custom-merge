@@ -6,6 +6,13 @@
 
 Deep merging of Immutable structures with custom per-property merging strategy.
 
+## Install
+
+```
+npm install immutable-custom-merge
+```
+
+
 ## Example usage
 ```javascript
 import {fromJS} from 'immutable'
